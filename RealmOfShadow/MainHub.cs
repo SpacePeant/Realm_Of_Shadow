@@ -13,6 +13,7 @@ namespace RealmOfShadow
     public partial class MainHub : Form
     {
         int step = 10;
+        int testing = 10;
         public MainHub()
         {
             InitializeComponent();
